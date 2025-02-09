@@ -47,9 +47,9 @@
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️:</h2>
 <br/>
 <div align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,firebase,supabase,sqlite,vscode,github,git&theme=dark&titles=true" /><br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,xd,swagger,postman,outlook,slack,teams,gmail&theme=dark&titles=true" /><br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle,plsql&theme=dark&titles=true" /><br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,firebase,supabase,sqlite,vscode&theme=dark&titles=true" /><br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,figma,xd,swagger,postman&theme=dark&titles=true" /><br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle,plsql,outlook,slack,teams,gmail&theme=dark&titles=true" /><br>
 </div>
 
 <br/>
