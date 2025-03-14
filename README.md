@@ -10,7 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working Oracle Technical Consultant on **at Macquires**
+ 🔭 I’m currently working Flutter Mobile Developer on **at Glimix**
+ 
+ 🔙 I’m previously working Oracle Technical Consultant on **at Macquires**
  
  🌱 I’m currently learning **Flutter Advance Course, Supabase, Firebase, Bloc Cubit State Management,Clean Code, Singleton Lazy, MVVM**
 
