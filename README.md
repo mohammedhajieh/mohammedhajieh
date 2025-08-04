@@ -14,9 +14,7 @@
  
  🔙 I’m previously working Oracle Technical Consultant on **at Macquires**
  
- 🌱 I’m currently learning **Flutter Advance Course, Supabase, Firebase, Bloc Cubit State Management,Clean Code, Singleton Lazy, MVVM**
-
-💬 Ask me about **Flutter , Http Rest Full Api, Singleton, GetX, MVC, Oracle Fusion, SQL, Oracle BI Publisher (XML Publisher), Sand Box, page composer, Visual Builder**
+💬 Ask me about **Flutter, Dart, Supabase, Firebase, Http, Dio, Bloc Cubit, GetX, MVC, MVVM, Clean Code, Singleton, Oracle Fusion, SQL, Oracle BI Publisher (XML Publisher), Sand Box, page composer, Visual Builder**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
