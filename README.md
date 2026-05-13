@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working Flutter Mobile Developer on **at Glimix**
+ 🔭 I’m currently working Flutter Mobile Developer on **at Rubix Consulting** and **at Glimix**
  
  🔙 I’m previously working Oracle Technical Consultant on **at Macquires**
  
