@@ -10,7 +10,7 @@
 
 <div align="center">
  
-<p>🔭 I’m a freelance Flutter developer at <strong>Glimix</strong>, building apps for iOS and Android.</p>
+<p>🔭 I work full-time as a Flutter developer at <strong>Glimix</strong>, delivering assigned features for its iOS and Android app.</p>
 <p>🔙 Previously, I worked as a Flutter Developer at <strong>Rubix Consulting</strong> and as an Oracle Technical Consultant at <strong>Macquires</strong>.</p>
 <p>🎓 I taught a 60-hour Flutter course over six weeks at <strong>Princess Sumaya University for Technology</strong> (Sep 2026 - Oct 2026).</p>
 <p>📦 I created <a href="https://pub.dev/packages/iconly_plus"><strong>iconly_plus</strong></a>, an open-source Flutter icon package.</p>
