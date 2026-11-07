@@ -58,7 +58,7 @@
   <h2>🐍 My Contributions 🐍:</h2>
   <br>
     <div align="center">
-  <img alt="Contribution snake animation from the original profile template" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation of Mohammad’s GitHub contributions" src="https://raw.githubusercontent.com/mohammedhajieh/mohammedhajieh/main/assets/contribution-snake.svg" />
   </div>
   <br/><br/><br/>
 </div>
@@ -69,7 +69,6 @@
 <br>
 <div align="left">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mohammedhajieh&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br>
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=mohammedhajieh&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="streak stats"/><br>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=mohammedhajieh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mohammedhajieh&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
 </div>
